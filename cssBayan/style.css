@@ -88,7 +88,7 @@ summary {
 }
 
 .accordion__body img {
-    transition: 1s; /* Время эффекта */
+    transition: 1s;
     display: block;
 }
 
