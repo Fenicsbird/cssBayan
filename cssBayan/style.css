@@ -30,9 +30,15 @@ summary {
 }
 
 .accordion {
+<<<<<<< HEAD
     max-width: 120rem;
     box-shadow: 0 0 0.75rem 0.25rem rgba(0, 0, 0, .4);
     border-radius: 0.5rem;
+=======
+    max-width: 1920px;
+    box-shadow: 0 0 12px 4px rgba(0, 0, 0, .4);
+    border-radius: 8px;
+>>>>>>> 15b0545dd2110ffed626f09c6605f28d2f787f0f
     overflow: hidden;
 }
 
